@@ -28,7 +28,10 @@ ol.alternating-colors {
   li:nth-child(odd):before { border-color: #0BAD02; }
   li:nth-child(even):before { border-color: #2378D5; }
 } */
-
+.cat-sections {
+  background-image: url("/assets/PNG/Logo\ mark\ 2.png");
+  background-size: contain;
+}
 .white-bg {
   background: #ffffff;
 }
