@@ -33,7 +33,7 @@ ol.alternating-colors {
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
   .logo {
-    width: 65% !important;
+    width: 45% !important;
   }
 }
 .cat-sections {
