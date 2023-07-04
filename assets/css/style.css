@@ -28,6 +28,14 @@ ol.alternating-colors {
   li:nth-child(odd):before { border-color: #0BAD02; }
   li:nth-child(even):before { border-color: #2378D5; }
 } */
+.logo {
+  width: 100% !important;
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  .logo {
+    width: 65% !important;
+  }
+}
 .cat-sections {
   background-image: url("/assets/PNG/Logo\ mark\ 2.png");
   background-repeat: no-repeat;
@@ -2253,7 +2261,7 @@ hero-btn {
   margin-top: 0px !important;
 }
 .mobile_menu .slicknav_menu .slicknav_btn {
-  top: -72px;
+  top: -50px;
 }
 .mobile_menu .slicknav_menu .slicknav_btn .slicknav_icon-bar {
   background-color: #fff !important;
