@@ -30,7 +30,9 @@ ol.alternating-colors {
 } */
 .cat-sections {
   background-image: url("/assets/PNG/Logo\ mark\ 2.png");
-  background-size: contain;
+  background-repeat: no-repeat;
+  background-size: 45% ;
+  margin-top: 2rem !important;
 }
 .white-bg {
   background: #ffffff;
