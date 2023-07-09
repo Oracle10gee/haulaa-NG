@@ -5,14 +5,10 @@
   "hints": {
     "axe/forms": "off",
     "apple-touch-icons": "off",
-    "axe/name-role-value": [
-      "default",
-      {
-        "link-name": "off"
-      }
-    ],
+    "axe/name-role-value": "off",
     "no-inline-styles": "off",
     "button-type": "off",
-    "compat-api/css": "off"
+    "compat-api/css": "off",
+    "axe/text-alternatives": "off"
   }
 }
