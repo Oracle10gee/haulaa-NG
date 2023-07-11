@@ -29,7 +29,7 @@ ol.alternating-colors {
   li:nth-child(even):before { border-color: #2378D5; }
 } */
 .logo {
-  width: 120% !important;
+  width: 160% !important;
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
   .logo {
