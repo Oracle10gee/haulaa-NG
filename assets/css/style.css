@@ -28,6 +28,8 @@ ol.alternating-colors {
   li:nth-child(odd):before { border-color: #0BAD02; }
   li:nth-child(even):before { border-color: #2378D5; }
 } */
+
+
 .logo {
   width: 160% !important;
 }
@@ -260,7 +262,7 @@ ul {
   padding: 0px;
 }
 li {
-  list-style: none;
+font-size: 0.9rem;
 }
 hr {
   border-bottom: 1px solid #eceff8;
@@ -2551,7 +2553,7 @@ hero-btn {
   position: absolute;
   z-index: 1;
   right: 47px;
-  top: 0px;
+  top: -150px !important;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .about-low-area .about-img .about-font-img {
@@ -3189,7 +3191,7 @@ hero-btn {
 }
 .footer-area .footer-heading .wantToWork-caption h2 {
   color: #fff;
-  font-size: 36px;
+  font-size: 1.5rem;
   font-weight: 700;
   line-height: 1.2;
   font-family: "Poppins", sans-serif;
