@@ -37,6 +37,9 @@ ol.alternating-colors {
   .logo {
     width: 50% !important;
   }
+  .partner-img {
+    width: 100% !important;
+  }
 }
 .cat-sections {
   background-image: url("/assets/PNG/Logo\ mark\ 2.png");
