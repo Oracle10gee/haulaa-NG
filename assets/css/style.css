@@ -5791,3 +5791,6 @@ del {
 .switch-wrap {
   margin-bottom: 10px;
 }
+.clients-section h2 {
+  color: red !important;
+}
