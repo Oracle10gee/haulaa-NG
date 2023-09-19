@@ -28,7 +28,16 @@ ol.alternating-colors {
   li:nth-child(odd):before { border-color: #0BAD02; }
   li:nth-child(even):before { border-color: #2378D5; }
 } */
-
+.container-text h2 {
+  font-weight: 800 !important;
+  padding-top: 50px !important;
+  transition: 0.3s ease-in;
+  color: #fff;
+}
+.container-text h2:hover {
+  color: #75e59b !important;
+  transform: scaleX(1.04);
+}
 
 .logo {
   width: 160% !important;
@@ -44,7 +53,7 @@ ol.alternating-colors {
 .cat-sections {
   background-image: url("/assets/PNG/Logo\ mark\ 2.png");
   background-repeat: no-repeat;
-  background-size: 45% ;
+  background-size: 45%;
   margin-top: 2rem !important;
 }
 .white-bg {
@@ -265,7 +274,7 @@ ul {
   padding: 0px;
 }
 li {
-font-size: 0.9rem;
+  font-size: 0.9rem;
 }
 hr {
   border-bottom: 1px solid #eceff8;
