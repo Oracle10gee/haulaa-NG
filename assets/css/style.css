@@ -49,6 +49,9 @@ ol.alternating-colors {
   .partner-img {
     width: 100% !important;
   }
+  .about-font-img {
+    display: none;
+  }
 }
 .cat-sections {
   background-image: url("/assets/PNG/Logo\ mark\ 2.png");
