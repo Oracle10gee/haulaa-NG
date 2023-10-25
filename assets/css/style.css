@@ -53,6 +53,10 @@ ol.alternating-colors {
     display: none;
   }
 }
+
+.footer-haulaa-logo {
+  width: 70% !important;
+}
 .cat-sections {
   background-image: url("/assets/PNG/Logo\ mark\ 2.png");
   background-repeat: no-repeat;
